@@ -1,0 +1,23 @@
+# Build outputs
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Android/iOS generated files
+*.apk
+*.aab
+*.ipa
+*.dSYM/
+*.app
+
+# Visual Studio
+.vscode/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
